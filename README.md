@@ -1,2 +1,7 @@
 # NumberToWord
-simple program to convert a number to words
+Transform figures to Words
+
+## Overview
+This simple C++ program converts a number to relavent words
+I have coded there different version for simiral functionality. All commited in their respective branch.
+
